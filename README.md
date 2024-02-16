@@ -1,5 +1,6 @@
 # Oh, WeatherApp
 A dynamic weather app that provides real-time weather information for a given location. Built using HTML, JavaScript, and Bootstrap, the app fetches data from a weather API and dynamically updates the background with a random image of the corresponding city or area.
+
 **Link to project:** https://ohweatherapp.netlify.app/
 ![image](https://github.com/StewedDownSteve/APIWeatherApp/blob/main/Screen%20Shot%202024-02-16%20at%201.34.53%20PM.png)
 
